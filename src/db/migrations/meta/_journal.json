@@ -8,6 +8,13 @@
       "when": 1752018477805,
       "tag": "0000_dry_black_cat",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752084032588,
+      "tag": "0001_left_madrox",
+      "breakpoints": true
     }
   ]
 }
